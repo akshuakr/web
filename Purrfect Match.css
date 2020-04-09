@@ -1,0 +1,28 @@
+hr{
+	width: 400px;
+}
+
+body{
+	background-image: url("https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	background-size: cover;
+	background-position: center;
+	font-family: 'Lato', sans-serif;
+}
+
+#special{
+	text-align: center;
+	padding-top: 15%;
+}
+
+html{
+	height: 100%;
+}
+
+h1{
+	font-weight:700;
+	font-size: 5.0em;
+}
+
+nav{
+	font-weight:400;
+}
